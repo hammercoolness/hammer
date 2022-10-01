@@ -1,1 +1,1 @@
-worker: python nitro.py.py
+worker: python hammer.py.py
