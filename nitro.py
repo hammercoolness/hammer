@@ -26,4 +26,4 @@ async def on_message(message):
             NitroEmbed = discord.Embed(title='니트로 생성기', description='https://discord.gift/' + ranNitro)
         await message.channel.send(embed=NitroEmbed)
         
-client.run('★TOKEN★')
+client.run('TOKEN')
